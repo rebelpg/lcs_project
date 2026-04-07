@@ -1,0 +1,11 @@
+build/
+install/
+log/
+
+*.log
+*.pyc
+__pycache__/
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
